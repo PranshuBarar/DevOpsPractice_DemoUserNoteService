@@ -1,0 +1,42 @@
+{
+  "kafka_server_instance_id": {
+    "sensitive": false,
+    "type": "string",
+    "value": "i-052c38d622495e6e5"
+  },
+  "kafka_server_private_ip": {
+    "sensitive": false,
+    "type": "string",
+    "value": "10.0.25.212"
+  },
+  "note_service_instance_id": {
+    "sensitive": false,
+    "type": "string",
+    "value": "i-04ef38d59bfc72922"
+  },
+  "note_service_private_ip": {
+    "sensitive": false,
+    "type": "string",
+    "value": "10.0.31.192"
+  },
+  "user_service_instance_id": {
+    "sensitive": false,
+    "type": "string",
+    "value": "i-0bf53306048c5d4b5"
+  },
+  "user_service_private_ip": {
+    "sensitive": false,
+    "type": "string",
+    "value": "10.0.31.81"
+  },
+  "zookeeper_server_instance_id": {
+    "sensitive": false,
+    "type": "string",
+    "value": "i-0e9733c09bcd8a1b4"
+  },
+  "zookeeper_server_private_ip": {
+    "sensitive": false,
+    "type": "string",
+    "value": "10.0.24.74"
+  }
+}
